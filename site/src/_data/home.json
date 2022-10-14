@@ -1,5 +1,5 @@
 {
-  "title": "Orion Grieco's portfolio",
+  "title": "Orion Grieco's personal portfolio",
   "image": "src/assets/img/Kekw.png",
   "image_alt": "Fern in hand",
   "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
