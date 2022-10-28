@@ -28,7 +28,7 @@
     max-width: 35%;
     min-width: 300px;
     border-radius: var(--border-radius);
-    background-color: var(--color-bg-accent);
+    background-color: rgb(255, 255, 128);
     z-index: -1;
   }
 }
@@ -78,8 +78,7 @@
   margin-bottom: 1rem;
   font-size: 1.3em;
 
-  > *:first-child {
+  >*:first-child {
     margin-top: 0;
   }
 }
-
