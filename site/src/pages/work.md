@@ -1,7 +1,6 @@
 ---
 title: Work
-subtitle: This is where you can describe your skills and talk about projects
-  you've worked on
+# subtitle: 
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
@@ -10,26 +9,18 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience:
 
-#### Tesla
+#### Allegheny College ALIC Lab (Allegheny Lab for Innovation and Creativity)
 
-**Senior Software Engineer** *(2019 - Current)*
+**Civic Impact Cohort (CIS) Scholar Placement** *(Fall 2021 - Spring 2022)*
 
-* Collaborated with Elon Musk on 80,000 unique projects
-* Invented the Cyber Truck
+* Collaborated with Development/Alumni Affairs professor Byron Rich through the CIS cohort on projects intertwined with local businesses.
+* Created a proof-of-concept parking-space registration program via Flask to webhost the program.
 
-#### Microsoft
-
-**Software Engineer** *(2014 - 2019)*
-
-* Maintained legacy Internet Explorer for 5 long years
 
 - - -
 
 ### 📚 Education:
 
-#### Harvard
+#### Allegheny College
 
-**PhD Astronomy** *(2014 - 2015)*
-
-* Graduated top of my class when I was only 12 years old
-* Won Nobel Prize
+**Bachelor's; Computer Science** *(2021 - 2025)*
