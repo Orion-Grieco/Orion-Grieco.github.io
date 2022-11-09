@@ -16,7 +16,6 @@ eleventyNavigation:
 * Collaborated with Development/Alumni Affairs professor Byron Rich through the CIS cohort on projects intertwined with local businesses.
 * Created a proof-of-concept parking-space registration program via Flask to webhost the program.
 
-
 - - -
 
 ### 📚 Education:
