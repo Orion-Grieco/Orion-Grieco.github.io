@@ -3,7 +3,7 @@ title: Parking lot data-set webhost
 emoji: 🅿
 metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.description will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is a project I had made to display data on a self-made web-host using Flask in the form of a proof-of concept program simulating a parking lot.
+summary: This is a project I had made to display data on a self-made web-host using Flask in the form of a proof-of concept program simulating the layout of a parking lot.
 tags:
   - JavaScript
   - Flask
