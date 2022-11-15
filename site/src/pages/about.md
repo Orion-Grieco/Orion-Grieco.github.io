@@ -1,14 +1,14 @@
 ---
 title: About Me
 subtitle: ""
-metaDescription: This page is all about me
+metaDescription: Learn more about Orion Grieco
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
+#### Who are you?
 
 I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
 
