@@ -9,8 +9,7 @@ eleventyNavigation:
   order: 1
 ---
 
-# Orion Grieco
-#### 354 Elmgrove Road * Rochester, NY 14626 * Orion.grieco@Gmail.com * 585-260-2212
+### Orion Grieco
 
 ## Education
 #### Spencerport High School (Diploma of Advanced Regents, Mastery of Science)
