@@ -6,6 +6,7 @@ date: 2019-01-01T00:00:00.000Z
 summary: A project created to record and display live data from a collection of DHT22 temperature and humidity sensors.
 tags:
   - C++
+  - Arduino
   - Python
   - Jupyter Notebook
 ---
