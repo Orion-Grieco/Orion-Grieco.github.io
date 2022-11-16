@@ -8,16 +8,32 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-#### Who are you?
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
+# Orion Grieco
+#### 354 Elmgrove Road * Rochester, NY 14626 * Orion.grieco@Gmail.com * 585-260-2212
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+## Education
+#### Spencerport High School (Diploma of Advanced Regents, Mastery of Science)
+#### Certified biliterate in Spanish and English by the state of New York
+#### Allegheny College (N/A)
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
+## Experience
+#### Created a basic machine learning system to automatically record and display information via Arduino Uno, a DHT-22 sensor, Pycharm, and Jupyter Notebook.
+#### Created a proof-of-concept program of a parking application.
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
+## Other
+* Participated in Spencerport High School's FTC Team (First Tech Challenge) from 2018-2019 on the programming sub-team.
+* Participated in Spencerport High School's FRC Team (First Robotics Challenge) from 2020-2021 on the programming sub-team.
+* Mentored Spencerport High School's Junior Lego League Team (Jr. FLL) from 2018-2019.
 
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
+## References (Must Get Permission from names listed for actual C.V or final draft)
+* (N/A)
 
-![Fern in Hand](/assets/img/fern-in-hand.jpeg "Fern in Hand")
+
+## Brief
+* I chose an extended C.V. format, and I believe it fits my goals for a C.V. as it is a neat and organized format wherein the information is easy-to-digest and easily comprehendible. It also allows for easy alterations when or if I will have to do so in the future, as well as that it fits the suggested format in the `UNC Writing Center Guide`. It also contains information from my existing resume and formats it well, which as another goal I had wanted to achieve: to reformat the information from my resume into the C.V. document.
+
+### Future actions to add new material to the C.V.
+* Attempt to enter into an internship
+* Strengthen understanding of currently or previously used languages.
+* Work on past projects and develop them into more fleshed-out programs.
