@@ -20,6 +20,10 @@ eleventyNavigation:
 
 ### 📚 Education:
 
+#### Spencerport High School
+
+**Diploma of advanced Reagents with a Mastery in Science** *(2017-2021)*
+
 #### Allegheny College
 
 **Bachelor's; Computer Science** *(2021 - 2025)*
