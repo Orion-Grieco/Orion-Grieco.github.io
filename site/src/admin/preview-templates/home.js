@@ -62,9 +62,6 @@ const Home = createClass({
               </div>
             </div>
           </section>
-
-
-          
         </div>
       </main>
     `;
