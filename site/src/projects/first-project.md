@@ -1,19 +1,20 @@
 ---
-title: Cat Translation API
-emoji: 😺
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: DHT-22 Temperature and Humidity Sensor
+emoji: 🌡️
+metaDescription: DHT-22 Sensor Project
 date: 2019-01-01T00:00:00.000Z
-summary: API to translate cat speech to english
+summary: A project created to record and display live data from a collection of DHT22 temperature and humidity sensors.
 tags:
-  - golang
-  - graphQL
-  - aws
+  - C++
+  - Arduino
+  - Python
+  - Jupyter Notebook
 ---
-
+Link to Repo : https://github.com/Orion-Grieco/dht_22
 ### Task
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The task was brought about via a high-school project that stemmed from basic machine-learning. The task itself involved making a network of DHT-22 humidity and temperature sensors connected to Arduino UNO boards with XBee receivers mounted to them. The intent of the sensors was to actively record and compile data, and the XBee sensors would be used to and transmit data to an XBee sensor designated as a receiver whereas the others would transmit recorded data.
 
 ### Solution
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The end result of this was creating a net-work of DHT-22 sensors with XBee receivers mounted to Arduino UNO boards in order to record, compile, and transmit data. A program called XCTU was used to organize and set up the network of XBee receivers, and the data was ultimately compiled into a CSV file through a Python program that would format the data received from the XBee receivers. The data in the CSV file would then be read into a Jupyter Notebook to be displayed on a Jupyter Notebook page.

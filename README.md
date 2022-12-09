@@ -1,4 +1,4 @@
-# CMPSC 480: Assignment 7, Starting a portfolio
+# CMPSC 480: Assignment 5, Starting a portfolio
 * Due: 18 November
   * With supporting assignments along the way
 

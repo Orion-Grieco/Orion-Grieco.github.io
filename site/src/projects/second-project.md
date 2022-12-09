@@ -1,18 +1,21 @@
 ---
-title: Another NPM Package
-emoji: 💾
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: Parking lot dataset Web-Host
+emoji: 🅿
+metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.description will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+summary: A project I had made to display data on a Flask web-host in the form of a proof-of concept program simulating the data layout of a parking lot.
 tags:
-  - javascript
-  - node
+  - JavaScript
+  - Flask
+  - Python
+  - HTML
+  - CSS
 ---
-
+Link to Repo: https://github.com/Orion-Grieco/parkinglot
 ### Task
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+The task was to create a proof-of-concept program to simulate registering for parking spaces at a given parking lot and display data pertaining to the occupation of the parking lot (i.e. who is in what space, and information regarding the person and their vehicle). This was also to be done in a website-like format.
 
 ### Solution
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+The end product of this project was a proof-of-concept program that was web-hosted using Flask. The program itself held multiple pre-fabricated data-sets that were accessible via a drop-down menu and the site itself demonstrated basic-front end development as well as performing the task of operating as a proof-of-concept of storing and displaying data pertaining to the occupation of a parking lot.

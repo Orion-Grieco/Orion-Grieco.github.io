@@ -62,29 +62,6 @@ const Home = createClass({
               </div>
             </div>
           </section>
-
-
-          <!-- Article List Placeholder (for illustrative purposes) -->
-          <hr/>
-          <h2>Articles</h2>
-          <section>
-            <article class="article-card">
-              <a class="article-card__link" href="#">
-                <h6 class="article-card__title">Placeholder Article</h6>
-                <p class="article-card__summary">
-                  This is not a real article and is only visible in the CMS.
-                </p>
-              </a>
-            </article>
-            <article class="article-card">
-              <a class="article-card__link" href="#">
-                <h6 class="article-card__title">Placeholder Article</h6>
-                <p class="article-card__summary">
-                  This is not a real article and is only visible in the CMS.
-                </p>
-              </a>
-            </article>
-          </section>
         </div>
       </main>
     `;

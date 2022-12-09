@@ -1,23 +1,36 @@
 ---
 title: About Me
 subtitle: ""
-metaDescription: This page is all about me
+metaDescription: Learn more about Orion Grieco
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
 ---
-#### Why Create This?
 
-I wanted to develop a portfolio that was simple, fast, accessible, and can be modified without opening up a code editor.
 
-First, I needed a static site generator. This led me to [Eleventy](https://www.11ty.dev/). This project is great because it is is simple, powerful, written in javascript, and framework free.
+|Education|
+|:------------------------------------------------------------------------------|
+* Spencerport High School
+  * (Diploma of Advanced Regents, Mastery of Science)
+  * Certified biliterate in Spanish and English by the state of New York
+* Allegheny College
+  * *Allegheny College* (N/A)
+  * Participated in Allegheny College's Civic Impact Scholar Cohort (CIS) from **Fall 2021 - Spring 2022** Semesters
 
-Next, I wanted auto deployments and a git-powered CMS. [Netlify](https://www.netlify.com/) and their suite of tools seemed perfect.
 
-I found a few good starter projects using these technologies, but was overall unhappy with the current options. That led me to develop Fernfolio. The goal was not to create a technical masterpiece, but to create a beautiful portfolio with minimal overhead/complexity. Something that just works.
+|Experience|
+|:------------------------------------------------------------------------------|
+|Created a basic machine learning system to automatically record and display information via Arduino Uno, a DHT-22 sensor, Pycharm, and Jupyter Notebook.|
+|Created a proof-of-concept program of a parking application.|
 
-This project is open source so that hopefully someone else can use this as a template (or reference) in building their own site. Technical details can be found on the [Github repo](https://github.com/TylerMRoderick/fernfolio-11ty-template) and some customization instructions can be found [here](/posts/theme-customizations/).
+|Other                                                                                                                                 |
+|:-------------------------------------------------------------------------------------------------------------------------------------|
+|Participated in Spencerport High School's FTC Team (First Tech Challenge) from **Fall 2018- Spring 2019** on the programming sub-team.    |
+|Participated in Spencerport High School's FRC Team (First Robotics Challenge) from **Fall 2020-Spring 2021** on the programming sub-team. |
+|Mentored Spencerport High School's Junior Lego League Team (Jr. FLL) from **Fall 2018- Fall 2019**.                                       |
 
-![Fern in Hand](/assets/img/fern-in-hand.jpeg "Fern in Hand")
+#### References
+* (N/A)
+

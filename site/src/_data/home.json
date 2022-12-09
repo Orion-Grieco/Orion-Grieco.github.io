@@ -1,6 +1,5 @@
 {
-  "title": "Fernfolio",
-  "image": "src/assets/img/fern-in-hand.jpeg",
-  "image_alt": "Fern in hand",
-  "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+  "title": "Orion Grieco",
+  "image": "src/assets/img/20221116_125326.jpg",
+  "image_alt": "A close-up facial photo of Orion Grieco that was taken in 2022 for a passport."
 }
